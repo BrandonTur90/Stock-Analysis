@@ -73,10 +73,10 @@ the code running the analysis, here's a quick breakdown.
    
 But wait, there's more! There are timers to measure how fast this process takes.
 
-![2017 Timer](https://github.com/HexHaunter/Stock-Analysis/blob/main/Resources/2017%20Timer.png?raw=true)
+![VBA_Challenge_2017](https://github.com/HexHaunter/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)
 
 
-![2018 Timer](https://github.com/HexHaunter/Stock-Analysis/blob/main/Resources/2018%20Timer.png?raw=true)
+![VBA_Challenge_2018](https://github.com/HexHaunter/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)
 
 
 As previously said, two macros had to run and it took around 5-8 seconds to run them both. Now the whole code runs
